@@ -1,0 +1,11 @@
+{
+	"name": "vinxi-hmr-bug",
+	"version": "1.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vinxi dev"
+	},
+	"dependencies": {
+		"vinxi": "^0.4.1"
+	}
+}
